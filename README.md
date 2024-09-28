@@ -1,7 +1,5 @@
 # 💫 About Me:
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%fff&size=22&vCenter=true&lines=Hello+There!+;I'm+Nikolay+Benlioglu...;)](https://git.io/typing-svg)
-
 I have experience in backend development and build my projects using Java, Spring Boot, PostgreSQL, MongoDB, Docker, React, and TypeScript. I'm passionate about learning new technologies, and I'm organized, responsible, and a team player.
 
 💬 Feel free to ask me anything!
