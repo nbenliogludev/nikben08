@@ -3,10 +3,6 @@
 
 I'm Nikolay Benlioglu, a Backend Developer with extensive experience in Java. I specialize in developing scalable applications and implementing microservice architectures, focusing on efficiency and performance. Additionally, I actively contribute to open-source projects, such as Elasticsearch, and have hands-on experience with frontend technologies like React, TypeScript, Redux, and Zustand.
 
-Currently, I'm pursuing a Bachelor's degree in Mathematics at Pamukkale University, while actively contributing to various projects and enhancing my skills in backend development.
-
-💬 Feel free to ask me anything!
-
 **Currently a Mathematics student at Pamukkale University!**
 
 ## 🌐 Socials:
