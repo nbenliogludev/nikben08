@@ -2,22 +2,25 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%fff&size=22&vCenter=true&lines=Hello+There!+;I'm+Nikolay+Benlioglu...;)](https://git.io/typing-svg)
 
-Has experience in backendn development. I develop my projects using Java, Spring Boot, Postgresql, MongoDB, Docker,  React, Typescript. I like to learn and research new things. Organized, responsible and self-critical person, attentive to details as well, goal-oriented, team player.
+I have experience in backend development and build my projects using Java, Spring Boot, PostgreSQL, MongoDB, Docker, React, and TypeScript. I'm passionate about learning new technologies, and I'm organized, responsible, and a team player.
 
-- 💬 Ask me about anything you want that helps you learn about me!
+💬 Feel free to ask me anything!
 
-<strong> Im currently mathematician student at Pamukkale University! </strong>
+**Currently a Mathematics student at Pamukkale University!**
 
 ## 🌐 Socials:
 
-<a href="https://www.linkedin.com/in/nikolay-benlioglu/" target="_blank" rel="nofollow"><img alt="Nikolay's Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikolay-benlioglu/)
 
 # 💻 Languages and Tools:
-<img src="https://skillicons.dev/icons?i=java,spring,rabbitmq,kafka,postgresql,mongodb,docker,react,typescript,redux" alt="languages and tools">
+
+![Tools](https://skillicons.dev/icons?i=java,spring,rabbitmq,kafka,postgresql,mongodb,docker,react,typescript,redux)
+
+# 📈 Contributions
 
 [![Nikolay's GitHub Contributions](https://github-readme-stats.vercel.app/api?username=nbenliogludev&show_icons=true)](https://github.com/nbenliogludev)
 
+### Badges:
 
-
+[![Elasticsearch Badge](https://img.shields.io/badge/Elasticsearch-Contributor-brightgreen)](https://github.com/elastic/elasticsearch/commits?author=nbenliogludev)
 
