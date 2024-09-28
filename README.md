@@ -1,6 +1,9 @@
 <h2 align="center"> 👨‍💻 Whoami</h2>
 
-I have experience in backend development and build my projects using Java, Spring Boot, PostgreSQL, MongoDB, Docker, React, and TypeScript. I'm passionate about learning new technologies, and I'm organized, responsible, and a team player.
+
+I'm Nikolay Benlioglu, a Backend Developer with extensive experience in Java. I specialize in developing scalable applications and implementing microservice architectures, focusing on efficiency and performance. Additionally, I have hands-on experience in frontend technologies like React, TypeScript, Redux, and Zustand.
+
+Currently, I'm pursuing a Bachelor's degree in Mathematics at Pamukkale University, while actively contributing to various projects and enhancing my skills in backend development. I enjoy tackling complex problems and continually strive to expand my expertise in new technologies.
 
 💬 Feel free to ask me anything!
 
