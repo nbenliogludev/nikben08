@@ -1,9 +1,9 @@
 <h2 align="center"> 👨‍💻 Whoami</h2>
 
 
-I'm Nikolay Benlioglu, a Backend Developer with extensive experience in Java. I specialize in developing scalable applications and implementing microservice architectures, focusing on efficiency and performance. Additionally, I have hands-on experience in frontend technologies like React, TypeScript, Redux, and Zustand.
+I'm Nikolay Benlioglu, a Backend Developer with extensive experience in Java. I specialize in developing scalable applications and implementing microservice architectures, focusing on efficiency and performance. Additionally, I actively contribute to open-source projects, such as Elasticsearch, and have hands-on experience with frontend technologies like React, TypeScript, Redux, and Zustand.
 
-Currently, I'm pursuing a Bachelor's degree in Mathematics at Pamukkale University, while actively contributing to various projects and enhancing my skills in backend development. I enjoy tackling complex problems and continually strive to expand my expertise in new technologies.
+Currently, I'm pursuing a Bachelor's degree in Mathematics at Pamukkale University, while actively contributing to various projects and enhancing my skills in backend development.
 
 💬 Feel free to ask me anything!
 
