@@ -16,6 +16,7 @@ Has experience in backendn development. I develop my projects using Java, Spring
 # 💻 Languages and Tools:
 <img src="https://skillicons.dev/icons?i=java,spring,postgresql,docker,react,typescript,redux" alt="languages and tools">
 
+[![Nikolay's GitHub Contributions](https://github-readme-stats.vercel.app/api?username=nbenliogludev&show_icons=true)](https://github.com/nbenliogludev)
 
 </div>
 
