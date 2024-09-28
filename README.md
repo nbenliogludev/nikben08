@@ -16,12 +16,6 @@ Has experience in backendn development. I develop my projects using Java, Spring
 # 💻 Languages and Tools:
 <img src="https://skillicons.dev/icons?i=java,spring,postgresql,docker,react,typescript,redux" alt="languages and tools">
 
-# 📈 Statistics:
-
-<div align="center">
-<a href="https://github.com/nikben08">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=nikben08&theme=github_dark&show_icons=true&include_all_commits=true&hide_border=true&count_private=true" />
-</a>
 
 </div>
 
