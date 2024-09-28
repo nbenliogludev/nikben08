@@ -1,4 +1,4 @@
-# 💫 About Me:
+<h2 align="center"> 👨‍💻 Whoami</h2>
 
 I have experience in backend development and build my projects using Java, Spring Boot, PostgreSQL, MongoDB, Docker, React, and TypeScript. I'm passionate about learning new technologies, and I'm organized, responsible, and a team player.
 
