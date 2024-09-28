@@ -28,3 +28,4 @@ I'm Nikolay Benlioglu, a Backend Developer with extensive experience in Java. I 
  <img src="https://github-readme-stats.vercel.app/api?username=nbenliogludev&show_icons=true&theme=white"/>
  
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nbenliogludev&label=Profile%20views&color=0e75b6&style=flat" alt="kemalege" /> </p>
