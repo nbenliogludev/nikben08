@@ -21,3 +21,10 @@ I'm Nikolay Benlioglu, a Backend Developer with extensive experience in Java. I 
 
 [![Elasticsearch Badge](https://img.shields.io/badge/Elasticsearch-Contributor-brightgreen)](https://github.com/elastic/elasticsearch/commits?author=nbenliogludev)
 [![LeetCode user nikbenlioglu/](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fnikbenlioglu%2F&logo=leetcode&logoColor=yellow)](https://leetcode.com/nikbenlioglu//)
+
+<h2 align="center">:bar_chart: Stats </h2>
+<p align="left">
+  
+ <img src="https://github-readme-stats.vercel.app/api?username=nbenliogludev&show_icons=true&theme=white"/>
+ 
+</p>
