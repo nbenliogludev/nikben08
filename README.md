@@ -16,9 +16,6 @@ I'm Nikolay Benlioglu, a Backend Developer with extensive experience in Java. I 
 
 ![Tools](https://skillicons.dev/icons?i=java,spring,rabbitmq,kafka,postgresql,mongodb,docker,react,typescript,redux)
 
-# 📈 Contributions
-
-[![Nikolay's GitHub Contributions](https://github-readme-stats.vercel.app/api?username=nbenliogludev&show_icons=true)](https://github.com/nbenliogludev)
 
 ### Badges:
 
