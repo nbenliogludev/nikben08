@@ -23,5 +23,3 @@ I'm Nikolay Benlioglu, a Backend Developer with extensive experience in Java. I 
 [![LeetCode user nikbenlioglu/](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fnikbenlioglu%2F&logo=leetcode&logoColor=yellow)](https://leetcode.com/nikbenlioglu//)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nbenliogludev&label=Profile%20views&color=0e75b6&style=flat" alt="kemalege" /> </p>
-
-<iframe src="https://hackerrank-badge.herokuapp.com/nbenliogludev?s=1" style="border: 0; height: 230px; width: 240px; overflow:hidden;" scrolling="no" frameBorder="0"></iframe>
